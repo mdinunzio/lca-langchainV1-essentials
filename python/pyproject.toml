@@ -16,6 +16,7 @@ dependencies = [
     "jupyter>=1.0.0",
     "langgraph-cli[inmem]>=0.4.0",
     "langchain-mcp-adapters",
+    "debugpy>=1.8.19",
 ]
 
 [project.optional-dependencies]
