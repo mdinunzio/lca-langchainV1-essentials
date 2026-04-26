@@ -1,0 +1,1 @@
+Im doing this langchain academy course (https://academy.langchain.com/courses/take/langchain-essentials-python/lessons/69388275-lesson-1-create-agent), can you help me to understand questions i ask? Don't make any edits unless I ask please, I want to learn by doing.
